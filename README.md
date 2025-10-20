@@ -91,5 +91,4 @@ This project is licensed under the MIT License.
 
 ## Author
 MOHITH VENKATESH
-**Your Name**
 [GitHub Profile](https://github.com/your-username)
